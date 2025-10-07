@@ -1,0 +1,4 @@
+pymodbus==3.6.4
+pandas==2.2.2
+matplotlib==3.9.2
+jupyter==1.1.0
